@@ -9,7 +9,7 @@ Project Description : A brief description of what this project does and who it's
 All installation can be done with `npm`/`pnpm`/`yarn`
 
 ```bash
-    npm install
+    pnpm install
 ```
 
 ## Tech Stack

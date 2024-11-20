@@ -16,6 +16,8 @@ export default function Home() {
           <li>📄 Update the metadata (title & description) in the `app/layout.tsx` file.</li>
           <li>🎨 Update the `favicon.ico` file.</li>
           <li>📝 Update the `README.md` file with project details.</li>
+          <li>⚠️ Adjust repository checks and workflows.</li>
+          <li>🔧 Adjust repository project settings.</li>
           <li>🚧 Develop an initial placeholder app.</li>
           <li>🔗 Set project repository as public on GitHub.</li>
           <li>🚀 Deploy the project to Vercel.</li>
